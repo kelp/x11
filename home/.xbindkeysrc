@@ -34,7 +34,7 @@
 # Uncomment the lines above if you want to pay attention to them.
 
 #keystate_numlock = enable
-keystate_capslock = disable
+#keystate_capslock = disable
 #keystate_scrolllock= enable
 
 # Increase volume
