@@ -17,5 +17,5 @@ xss-lock -n /usr/lib/xsecurelock/dimmer -l -- xsecurelock &
 
 # Applications#
 nm-applet &
-autocutsel -fork &
-autocutsel -selection PRIMARY -fork &
+#autocutsel -fork &
+#autocutsel -selection PRIMARY -fork &
